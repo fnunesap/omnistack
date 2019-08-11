@@ -1,3 +1,3 @@
-#Initializing the OmniStack Week project:
+# Initializing the OmniStack Week project:
 
--09/11/2019
+09/11/2019
